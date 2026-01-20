@@ -83,17 +83,24 @@
 - Visual Studio Code 설치
   1. https://code.visualstudio.com/ 에서 Download for Windows 버튼 클릭
   2. 설치 `C:\DEV\IDE\MicroSoft VS Code`에 설치
-  3. Extensions > Korean Pack for Visual Studio Code 설치 후 재시작
+  3. Extensions -> Korean Pack for Visual Studio Code 설치 후 재시작
 
 - 추가 설치 프로그램
   1. Notepad++ 에디터 - https://notepad-plus-plus.org/downloads/
   2. 픽픽 - https://picpick.net/
 
 - **Python** 개발환경 설정
-   
+  1. https://www.python.org/ 에서 Download의 Python 3.1x.x 버튼 클릭
+  2. Installer -> `Add python.exe to PATH` 체크 활성화 후 `Customize Installation` 클릭
+  3. Documentation 체크 해제, for all users 체크 활성화 후 Next 클릭
+  4. Advanced Options 에서 Install Python 3.1x for all users 체크 활성화
+  5. Advanced Options > Customize install location 경로 변경 ex) C:\DEV\LANG\Python314
+  <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/9d38f1a5-6ad1-46fa-b92c-e44f2f045d59" />
+  6. Setup was Successful(설치완료) 후 Disable path length limit 클릭(필수)
+     <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/15c3ab86-8c26-4574-a88e-beb039bea1cd" />
 
 
-
+- 프로그램 개발 개념
 
 
 
