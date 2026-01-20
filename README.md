@@ -99,7 +99,10 @@
   
   6. Setup was Successful(설치완료) 후 Disable path length limit 클릭(필수)
      <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/15c3ab86-8c26-4574-a88e-beb039bea1cd" />
-
+     
+  7. cmd 또는 powershell 열고, `python --version` 명령어 입력 후 확인
+  8. Visual Studio Code -> Extensions(확장) 에서 Python 검색 후 설치
+     
 
 - 프로그램 개발 개념
 
