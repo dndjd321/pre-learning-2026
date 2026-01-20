@@ -102,6 +102,7 @@
      
   7. cmd 또는 powershell 열고, `python --version` 명령어 입력 후 확인
   8. Visual Studio Code -> Extensions(확장) 에서 Python 검색 후 설치
+  9. VS Code 재오픈 폴더 생성
      
 
 - 프로그램 개발 개념
