@@ -32,13 +32,29 @@
 
     ## 이미지 사이즈 조절
     src : 이미지 Url
-    width : 이미지 가로 사이즈(px)
+    width : 이미지 가로 사이즈 설정(px)
     <img src="imgUrl" width="500" />
     ```
     - [네이버](https://www.naver.com)
-    - ![이미지](https://gfd-phinf.pstatic.net/20260116_200/1768549801171bYFNn_PNG/53893eab133c2bf540d213e1df85a1c1.png)
-    - <img src="https://gfd-phinf.pstatic.net/20260116_200/1768549801171bYFNn_PNG/53893eab133c2bf540d213e1df85a1c1.png" width="500" />
+    
+    - ![이미지](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_-62a40u3lSIyRP5EKOjJeQiZROwTeVCOQ&s)
+    
+    - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_-62a40u3lSIyRP5EKOjJeQiZROwTeVCOQ&s" width="400" />
+    
     - 이미지와 링크의 차이는 !로 시작하냐 아니냐로 확인됨.
+    
+    - <img width="703" height="463" alt="image" src="https://github.com/user-attachments/assets/f52bf34a-08c1-4af0-b785-dab583d4be31" />
+
  
   4. 
+
+
+
+
+
+
+
+
+
+
 
