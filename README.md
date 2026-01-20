@@ -77,6 +77,30 @@
      - https://desktop.github.com/download/ 에서 다운로드(Download for Windows) 클릭 후 설치
      - 계정 브라우저 연동
   3. GitHub Repository Clone
+     - GitHub Desktop 메뉴 -> Clone Repository 클릭 -> GitHub.com 탭에서 저장소 검색 후 선택
+       -> Local Path 지정 후 아래에 나오는 `Clone` 버튼 클릭
+
+- Visual Studio Code 설치
+  1. https://code.visualstudio.com/ 에서 Download for Windows 버튼 클릭
+  2. 설치 `C:\DEV\IDE\MicroSoft VS Code`에 설치
+  3. Extensions > Korean Pack for Visual Studio Code 설치 후 재시작
+
+- 추가 설치 프로그램
+  1. Notepad++ 에디터 - https://notepad-plus-plus.org/downloads/
+  2. 픽픽 - https://picpick.net/
+
+- **Python** 개발환경 설정
+   
+
+
+
+
+
+
+
+
+
+
 
 
 
