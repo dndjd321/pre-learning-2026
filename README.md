@@ -67,7 +67,16 @@
      - 문장을 작성할 시 **강조**, ~~취소선~~, __강조2__, <u>밑줄</u>, <i>이태릭</i> 을 사용할 수 있습니다.
 
 
-
+- GitHub local Repository 생성
+  1. Git for Windows 설치
+     - https://git-scm.com/ 에서 `Install for Windows` 클릭
+     - Standalone Installer -> Git for Windows/x64 Setup 클릭
+     - Git 설치 옵션은 기본 세팅 그래도 사용 가능(변경X)
+     - cmd 또는 powershell 에서 `git --version` 또는 `git -v` 명령어로 확인
+  2. GitHub Desktop 설치
+     - https://desktop.github.com/download/ 에서 다운로드(Download for Windows) 클릭 후 설치
+     - 계정 브라우저 연동
+  3. GitHub Repository Clone
 
 
 
