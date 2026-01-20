@@ -5,7 +5,7 @@
 - 과정소개
 - 학습 리포지토리 생성
 - 마크다운 학습
-  1. 기본 문법 - 제목
+  1. 제목
     ```markdown
     # 제목1
     ## 제목2
@@ -16,7 +16,7 @@
     <!-- 주석(HTML 주석과 동일) -->
     ```
 
-  2. 기본 문법 - 목록
+  2. 목록
     ```markdown
     - 목록
     * 목록
@@ -24,7 +24,7 @@
     2. 숫자목록
     ```
 
-  3. 기본 문법 - 링크, 이미지
+  3. 링크, 이미지
     ```markdown
     [네이버](https://www.naver.com)
 
@@ -41,12 +41,30 @@
     
     - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_-62a40u3lSIyRP5EKOjJeQiZROwTeVCOQ&s" width="400" />
     
-    - 이미지와 링크의 차이는 !로 시작하냐 아니냐로 확인됨.
+    - 이미지와 링크의 차이는 !의 유무로 확인할 수 있음.
     
     - <img width="703" height="463" alt="image" src="https://github.com/user-attachments/assets/f52bf34a-08c1-4af0-b785-dab583d4be31" />
 
  
-  4. 
+  4. 가로줄
+     ```markdown
+     ---
+     ```
+---
+  5. 코드 블럭
+     - 소스코드를 작성할 때 코드 하이라이터, 영역표시 할 때 사용.
+     - 백틱('`') 1회 또는 3회 입력 시 사용.
+     - 3회 입력 시에는 백틱 사이에 표시언어를 입력
+     ```python
+     print('Hello, Python!')
+     ```
+     - 1회 입력 시에는 일반적인 문장에서 한 단어를 강조하고 싶을때 `인라인 코드블럭`을 사용
+    
+  6. 단어 강조 및 밑줄
+     ```markdown
+     **, ~~, __, html의 u 태그, html i 태그
+     ```
+     - 문장을 작성할 시 **강조**, ~~취소선~~, __강조2__, <u>밑줄</u>, <i>이태릭</i> 을 사용할 수 있습니다.
 
 
 
