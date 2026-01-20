@@ -95,7 +95,8 @@
   3. Documentation 체크 해제, for all users 체크 활성화 후 Next 클릭
   4. Advanced Options 에서 Install Python 3.1x for all users 체크 활성화
   5. Advanced Options > Customize install location 경로 변경 ex) C:\DEV\LANG\Python314
-  <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/9d38f1a5-6ad1-46fa-b92c-e44f2f045d59" />
+     <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/9d38f1a5-6ad1-46fa-b92c-e44f2f045d59" />
+  
   6. Setup was Successful(설치완료) 후 Disable path length limit 클릭(필수)
      <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/15c3ab86-8c26-4574-a88e-beb039bea1cd" />
 
