@@ -25,8 +25,20 @@
     ```
 
   3. 기본 문법 - 링크, 이미지
-     ```markdown
-     [네이버](https://www.naver.com)
-     ```
-     - [네이버](https://www.naver.com)
+    ```markdown
+    [네이버](https://www.naver.com)
+
+    ![이미지](imgUrl)
+
+    ## 이미지 사이즈 조절
+    src : 이미지 Url
+    width : 이미지 가로 사이즈(px)
+    <img src="imgUrl" width="500" />
+    ```
+    - [네이버](https://www.naver.com)
+    - ![이미지](https://gfd-phinf.pstatic.net/20260116_200/1768549801171bYFNn_PNG/53893eab133c2bf540d213e1df85a1c1.png)
+    - <img src="https://gfd-phinf.pstatic.net/20260116_200/1768549801171bYFNn_PNG/53893eab133c2bf540d213e1df85a1c1.png" width="500" />
+    - 이미지와 링크의 차이는 !로 시작하냐 아니냐로 확인됨.
+ 
+  4. 
 
