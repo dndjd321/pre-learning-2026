@@ -169,7 +169,14 @@
 
 ## 3일차
 - Python
-  - 함수
+  - 함수 및 모듈
+    - [함수](./DAY03/functions.py) <-- 확인
+    - [모듈](./DAY03/modules.py) <-- 확인
+
+  - 개념
+    - 컴퓨터는 모든 것이 값(데이터)
+    - Enter도 값, Empty도 값, 공백(Space)도 값, None(미정) == Null 도 값
+
 
 
 
