@@ -177,6 +177,10 @@
     - 컴퓨터는 모든 것이 값(데이터)
     - Enter도 값, Empty도 값, 공백(Space)도 값, None(미정) == Null 도 값
 
+  - 파일 입출력
+    - [파일쓰기](./DAY03/fileWrite.py) <-- 확인
+    - [파일읽기](./DAY03/fileRead.py) <-- 확인
+
 
 
 
